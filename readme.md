@@ -1,4 +1,4 @@
--[ ] Window - Common Util functions
--[ ] setTimeout and setInterval
--[ ] prompt,alert and confirm
--[ ] working with Events
+- [ ] Window - Common Util functions
+- [ ] setTimeout and setInterval
+- [ ] prompt,alert and confirm
+- [ ] working with Events
